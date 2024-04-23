@@ -1,0 +1,1 @@
+Esse projeto foi elaborado para aprender JavaScript e colocar em prática. Nele utilizamos o método de estudo chamado Pomodoro, onde pode-se cronometrar o tempo de estudo e descanso. Há também a opção de lista de tarefas que esta sincronizada com o cronomêtro.
